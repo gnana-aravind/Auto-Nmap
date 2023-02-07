@@ -1,5 +1,5 @@
 #!/bin/sh
-#by @aravind0-7
+#by @aravind0x7
 
 # Define ANSI color variables
 RED='\033[0;31m'
@@ -113,7 +113,7 @@ usage() {
 	echo "  |_| \_|_| |_| |_|\__,_| .__/  /_/    \_\__,_|\__\___/|_| |_| |_|\__,_|\__\___|_|    "
 	echo "                        | |                                                           "
 	echo "                        |_|                                                           "
-	echo "                              -by @aravind0-7                                         "
+	echo "                              -by @aravind0x7                                         "
 	echo
 	echo
         printf "${RED}Usage: $(basename $0) -H/--host ${NC}<TARGET-IP>${RED} -t/--type ${NC}<TYPE>${RED}\n"
